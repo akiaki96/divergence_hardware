@@ -5,4 +5,7 @@
 
 [テクニカルデータシート](https://www.ntf.or.jp/entry/2026/RobotEnt03.php?n&id=370755)
 
-いつか解説記事を書こうと思っています．
+[ソースコード](https://github.com/akiaki96/divergence_v3)
+
+いつかハードウェアの解説記事を書こうと思っています．  
+ソフトウェアの解説記事は[こちら](https://qiita.com/akiaki96/items/6498b00ca979ef92b548)です．
